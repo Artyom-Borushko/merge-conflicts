@@ -1,9 +1,15 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# probot
+# google
 - project: Google main page
   role: Developer
   duration: one week
   url: "https://github.com/Artyom-Borushko/GoogleMainPage"
   description: Just a copy of the google main page
+  
+#epam
+- project: GitHub testing framework
+  role: Developer
+  duration: april, 2020 &mdash; may, 2020
+  description: Custom testing automation framework for GitHub, i.g. API testing with JS
